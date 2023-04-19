@@ -56,12 +56,20 @@
 本研究利用Rasa聊天機器人開發框架完成心理健康管理聊天機器人設計，讓聊天機器人能夠針對使用者口語對話內容執行轉為文字之後的自然語言處理，例如：斷詞、特徵擷取、意圖分類及實體擷取任務；而人類的心理感受任務有「情緒偵測」、「情感分析」、「正向鼓舞」及「關心/同理心」。
 接著，以Cognitive Behavioral Therapy (CBT)與Motivational Interviewing (MI)心理健康方法設計聊天機器人，使聊天機器人具有辨識負面心理健康認知及回覆心理健康處理方案的能力。
 最後，除了Rasa Policy原有的MemoizationPolicy、RulePolicy及TEDPolicy工具，本研究另外設計Custom Graph Components的MentalHealthPolicy，其主要用於參考過去使用者的事件體驗來影響Rasa Policy的對話決策，針對相同的負面心理健康認知調用適當正向心理健康管理對話的方法，讓聊天機器人更能夠適應多變的對話情境，從使用者的角度更能夠接受聊天機器人的說話內容。
+
+聊天機器人使用心理健康方法的對話核心框架
+
 ![image](https://user-images.githubusercontent.com/131113658/233013704-06dd173e-3e70-4fc6-a16a-cfc1b9917a0c.png)
+
+聊天機器人使用自然語言處理使用者對話
 
 ![image](https://user-images.githubusercontent.com/131113658/233013295-84f34b3c-c547-494e-9069-3dde726676b3.png)
 
+Custom Graph Components示意圖
+
 ![image](https://user-images.githubusercontent.com/131113658/233013785-e84b3092-1b9d-4f98-af28-fad7c0abf97f.png)
 
+Rasa執行結果圖
 
 ![image](https://user-images.githubusercontent.com/131113658/233013185-b25dbf86-c012-4943-98f8-a8e0ce33ff69.png)
 
