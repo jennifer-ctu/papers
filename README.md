@@ -32,19 +32,19 @@
 
 多輪對話-詢問報名承辦人員情境
 
-![image](https://user-images.githubusercontent.com/131113658/233010091-3f5f61da-9528-47ae-a877-c0b878c5a0ef.png)![image](https://user-images.githubusercontent.com/131113658/233010120-8c1920de-be2d-4996-aa64-c57b493fba62.png)
+<img src =https://user-images.githubusercontent.com/131113658/233010091-3f5f61da-9528-47ae-a877-c0b878c5a0ef.png width=300 ><img src =https://user-images.githubusercontent.com/131113658/233010120-8c1920de-be2d-4996-aa64-c57b493fba62.png width=300 >
 
 多輪對話-詢問報名承辦人例外情境1
 
-![image](https://user-images.githubusercontent.com/131113658/233010298-16952a98-8d71-427d-bd64-1e0300338980.png)![image](https://user-images.githubusercontent.com/131113658/233010327-98907623-68d8-4427-b352-5b44fe690225.png)
+<img src =https://user-images.githubusercontent.com/131113658/233010298-16952a98-8d71-427d-bd64-1e0300338980.png width=300 ><img src =https://user-images.githubusercontent.com/131113658/233010327-98907623-68d8-4427-b352-5b44fe690225.png width=300 >
 
 多輪對話-詢問報名承辦人例外情境2
 
-![image](https://user-images.githubusercontent.com/131113658/233010394-1fab91e2-2da6-4574-9da3-ae104387f770.png)![image](https://user-images.githubusercontent.com/131113658/233010446-8556e9bc-e64f-47ea-847c-d1386d200af2.png)![image](https://user-images.githubusercontent.com/131113658/233010524-6a385e2e-f3c2-4937-9978-c8305bf96454.png)![image](https://user-images.githubusercontent.com/131113658/233010547-0cd8644a-d04b-4e75-80f2-fccd4090e78c.png)
+<img src =https://user-images.githubusercontent.com/131113658/233010394-1fab91e2-2da6-4574-9da3-ae104387f770.png width=250 ><img src =https://user-images.githubusercontent.com/131113658/233010446-8556e9bc-e64f-47ea-847c-d1386d200af2.png width=250 ><img src =https://user-images.githubusercontent.com/131113658/233010524-6a385e2e-f3c2-4937-9978-c8305bf96454.png width=250 ><img src =https://user-images.githubusercontent.com/131113658/233010547-0cd8644a-d04b-4e75-80f2-fccd4090e78c.png width=250 >
 
 多輪對話-詢問報名承辦人例外情境3
 
-![image](https://user-images.githubusercontent.com/131113658/233010610-2b1c9d35-9bd6-427f-bc43-9045f05941b8.png)
+<img src =https://user-images.githubusercontent.com/131113658/233010610-2b1c9d35-9bd6-427f-bc43-9045f05941b8.png width=300 >
 
 
 
