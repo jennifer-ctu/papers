@@ -17,7 +17,7 @@
 最後，利用Sara對話機器人介面作為招生事務對話機器人與使用者溝通的橋樑，並設計對話處理流程與對話情境處理招生事務諮詢服務，以及挑選7名人員進行測試與持續使用意願調查。
 
 <img src =https://user-images.githubusercontent.com/131113658/233000104-82cc7e5e-2609-4921-9be4-dfda3790aa70.png width=300 >
-<img src =[![image](](https://user-images.githubusercontent.com/131113658/233005999-3835d422-2fa2-4dd1-b939-d86d43e33b14.png)) width=300 >
+<img src =https://user-images.githubusercontent.com/131113658/233005999-3835d422-2fa2-4dd1-b939-d86d43e33b14.png width=300 >
 
 
 ## 3.2022臺灣網際網路研討會TANet研討會論文-基於自然語言處理之心理健康管理聊天機器人設計：
