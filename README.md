@@ -30,10 +30,27 @@
 
 <img src =https://user-images.githubusercontent.com/131113658/233005999-3835d422-2fa2-4dd1-b939-d86d43e33b14.png width=300 >
 
+多輪對話-詢問報名承辦人員情境
+
+![image](https://user-images.githubusercontent.com/131113658/233010091-3f5f61da-9528-47ae-a877-c0b878c5a0ef.png)![image](https://user-images.githubusercontent.com/131113658/233010120-8c1920de-be2d-4996-aa64-c57b493fba62.png)
+
+多輪對話-詢問報名承辦人例外情境1
+
+![image](https://user-images.githubusercontent.com/131113658/233010298-16952a98-8d71-427d-bd64-1e0300338980.png)![image](https://user-images.githubusercontent.com/131113658/233010327-98907623-68d8-4427-b352-5b44fe690225.png)
+
+多輪對話-詢問報名承辦人例外情境2
+
+![image](https://user-images.githubusercontent.com/131113658/233010394-1fab91e2-2da6-4574-9da3-ae104387f770.png)![image](https://user-images.githubusercontent.com/131113658/233010446-8556e9bc-e64f-47ea-847c-d1386d200af2.png)![image](https://user-images.githubusercontent.com/131113658/233010524-6a385e2e-f3c2-4937-9978-c8305bf96454.png)![image](https://user-images.githubusercontent.com/131113658/233010547-0cd8644a-d04b-4e75-80f2-fccd4090e78c.png)
+
+多輪對話-詢問報名承辦人例外情境3
+
+![image](https://user-images.githubusercontent.com/131113658/233010610-2b1c9d35-9bd6-427f-bc43-9045f05941b8.png)
+
+
 
 ## 3.2022臺灣網際網路研討會TANet研討會論文-基於自然語言處理之心理健康管理聊天機器人設計
 
-摘要
+**摘要**
 
 現今大環境之下，患者害怕受到他人歧視往往不敢向他人傾訴自己內心真實想法，甚至不敢至醫療場所尋求醫生的協助，舉凡Apple Siri、Google Assistant及Samsung Bixby等個人語音助理已伴隨著人們協助使用者以口語溝通的方式處理個人活動管理等任務，而面臨害怕受到他人歧視的患者是否也能透過個人語音助理的聊天機器人得到心理健康問題的幫助是本研究的課題。
 本研究利用Rasa聊天機器人開發框架完成心理健康管理聊天機器人設計，讓聊天機器人能夠針對使用者口語對話內容執行轉為文字之後的自然語言處理，例如：斷詞、特徵擷取、意圖分類及實體擷取任務；而人類的心理感受任務有「情緒偵測」、「情感分析」、「正向鼓舞」及「關心/同理心」。
