@@ -1,3 +1,4 @@
+
 # papers
 # 1.2020臺灣網際網路研討會TANet研討會論文-基於BERT語言預訓練機制之招生事務對話機器人設計：
 
@@ -14,7 +15,8 @@
 首先，本研究利用Rasa自然語言處理框架實現台灣招生事務諮詢服務。使用Rasa自然語言處理框架的Jieba、Sklearn的CountVectorizer及Dual Intent and Entity Transformer (DIET)自然語言工具依序處理斷詞、特徵擷取、意圖分類及實體擷取任務；採用Rasa自然語言處理框架的Transformer Embedding Dialogue(TED) Policy方法實現多輪對話，運用self-attention機制關注每回合的句子，使招生事務對話機器人納入歷史對話預測下一個動作回覆使用者。
 其次，將Rasa自然語言處理框架設計模組管理將其分為自然語言處理模組、對話管理模組及外部整合模組。本研究自行建置資料集與對話機器人模組管理系統，對話機器人模組管理系統依模組管理處理並匯出招生事務的Rasa自然語言處理框架文件，以及提供查看使用者與對話機器人的對話紀錄功能，系統將其統計為常見問題。
 最後，利用Sara對話機器人介面作為招生事務對話機器人與使用者溝通的橋樑，並設計對話處理流程與對話情境處理招生事務諮詢服務，以及挑選7名人員進行測試與持續使用意願調查。
-![image](https://user-images.githubusercontent.com/131113658/233000104-82cc7e5e-2609-4921-9be4-dfda3790aa70.png)
+
+<img src =https://user-images.githubusercontent.com/131113658/233000104-82cc7e5e-2609-4921-9be4-dfda3790aa70.png width=300 >
 
 
 
