@@ -73,3 +73,10 @@ Rasa執行結果圖
 
 ![image](https://user-images.githubusercontent.com/131113658/233013185-b25dbf86-c012-4943-98f8-a8e0ce33ff69.png)
 
+Rasa執行自然語言處理的系統介面
+
+使用Postman工具展示Application Programming Interface(API)
+
+![image](https://user-images.githubusercontent.com/131113658/233014795-1d2bd746-d6d0-4c69-a7d8-3ddc2dc28acf.png)
+
+
